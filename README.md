@@ -1,6 +1,6 @@
 # pkb_app
 
-aplikasi form untuk pendaftaran anggota baru PKB
+
 
 ## Getting Started
 
